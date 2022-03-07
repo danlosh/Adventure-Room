@@ -17,12 +17,44 @@
   }
   
   .about {
-    background-image: url('../public/images/img-2.jpg');
+    background-image: url('../public/images/img-home.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
+    color: rgb(249, 253, 0);
+    font-size: 65px;
+    display: flex;
+    
+
+  }
+
+  .about-us-p {
+    background-color: rgb(251, 255, 231);
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+
+  .about-us-h3 {
+    background-color: rgb(249, 255, 220);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .underline {
+    height: 4px;
+    width: 100%;
+    background-color: rgb(221, 245, 247) ;
   }
   
   .contact {

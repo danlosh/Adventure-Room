@@ -5,7 +5,7 @@ import "./Cards.css";
 function Cards() {
   return (
     <div className="cards">
-      <h1>Welcome To Adventure Room Selfie Museum!</h1>
+      <h1>Welcome To Adventure Insta Room!</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
@@ -16,13 +16,13 @@ function Cards() {
               path="/about"
             />
             <CardItem
-            src="images/img-2.jpg"
+            src="images/contact-us.jpg"
             text="For Inquiries & Questions"
             label="Contact Us"
             path="/contact"
           />
           <CardItem
-              src="images/img-1.jpg"
+              src="images/admission2.PNG"
               text="BUY TICKETS TODAY"
               label="Admission"
               path="/admission"
