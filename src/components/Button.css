@@ -11,6 +11,8 @@
     cursor: pointer;
 }
 
+
+
 .btn--primary {
 background-color: var(--primary);
 color: #242424;
@@ -38,7 +40,7 @@ font: 20px;
 }
 
 .btn--medium:hover, .btn--large:hover {
-    background: #fff;
+    background: rgb(235, 221, 221);
     color: #242424;
     transition: all 0.3 ease-out;
 

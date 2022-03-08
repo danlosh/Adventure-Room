@@ -2,7 +2,7 @@ import React from "react";
 import "../../App.css";
 import AboutUs from "../AboutUs";
 
-function Home() {
+function About() {
   return (
     <>
       <AboutUs />
@@ -10,4 +10,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default About;

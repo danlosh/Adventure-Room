@@ -1,0 +1,36 @@
+/* Footer Styling */
+
+.footer {
+    background-color: rgb(58, 55, 55);
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+
+/* Link styling in the footer */
+
+.footer a {
+    color:#fcfda8;
+}
+
+.footer a:hover {
+    color: gray;
+}
+
+h6 {
+    text-decoration: underline;
+}
+
+/* Icon Styling in the footer */
+
+a.facebook-social {
+    color: blue;
+}
+
+a.tiktok-social {
+    color: black;
+}
+
+a.insta-social {
+    color: white;
+}

@@ -10,7 +10,7 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/img-9.jpg"
+              src="images/logo-3.jpg"
               text="Explore Denver's Newest Selfie Museum!"
               label="About"
               path="/about"
@@ -30,6 +30,7 @@ function Cards() {
           </ul>
         </div>
       </div>
+
     </div>
   );
 }
