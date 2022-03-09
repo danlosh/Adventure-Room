@@ -1,7 +1,7 @@
 /* Footer Styling */
 
 .footer {
-    background-color: rgb(145, 146, 84);
+    background: linear-gradient(90deg,rgb(229, 125, 255)  0%, rgb(255, 252, 49) 100%);
     padding-top: 20px;
     padding-bottom: 20px;
    
@@ -10,7 +10,7 @@
 /* Link styling in the footer */
 
 .footer a {
-    color:#f0e8a3;
+    color:#ffffff;
 }
 
 .footer a:hover {

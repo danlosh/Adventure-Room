@@ -1,7 +1,7 @@
 
 .cards {
     padding: 4rem;
-    background: rgb(253, 255, 149);
+    background: linear-gradient(90deg,rgb(248, 148, 34)  0%, rgb(202, 55, 221) 100%);
   }
   
   h1 {

@@ -18,10 +18,10 @@ object-fit:contain;
 }
 
 .hero-container > h1 {
-    color: rgb(255, 255, 0);
-    font-size: 80px;
+    color: rgb(255, 251, 0);
+    font-size: 60px;
 margin-top: -150px;
-font-family: 'Barriecito', cursive;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 .hero-container > p {

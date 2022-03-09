@@ -20,6 +20,7 @@ function AboutUs() {
           free to contact us with any questions or inquiries about Adventure Insta Room.
         </p>
       </div>
+      
     </>
   );
 }
