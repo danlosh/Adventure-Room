@@ -8,13 +8,12 @@ import Contact from "./components/pages/Contact";
 import Admission from "./components/pages/Admission";
 import Footer from "./components/Footer";
 import ScrollToTop from "./components/ScrollToTop";
-import NoAudio from "./components/NoAudio";
+
 
 function App() {
   return (
     <>
       <Router>
-      <NoAudio />
         <ScrollToTop />
         <Navbar />
         <Routes>
