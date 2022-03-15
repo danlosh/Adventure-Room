@@ -1,6 +1,15 @@
 import React from "react";
 import "../../App.css";
+import AdmissionTickets from "../AdmissionTickets";
+
+
 
 export default function Admission() {
-  return <h1 className="admission">BUY TICKETS BELOW</h1>;
+  return (
+<>
+<AdmissionTickets />
+</>
+
+  )
+
 }
